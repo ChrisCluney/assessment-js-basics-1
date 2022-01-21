@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = "Git is a cloud service on your pc to store different version of repository files of your project"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = "gitHub is a cloud service based online where you can upload different version of repository files for your project in a organized manner"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = "initialize a git repository"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = "makes a copy of a existing repo to a new directory"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = "displays the state of the working directory and the staging area"
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,7 +52,9 @@
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = "updates any changes in the working directory"
+
+let gitAddCode = "git add [project name]"
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +65,9 @@
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = "This adds all the files to the first initial commit of the project"
+
+let gitCommitCode = "git commit -am"
 
 
 //////////////////PROBLEM 8////////////////////
@@ -72,4 +76,5 @@
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+
+let gitPushDefinition = "this pushes everything in the project to gitHub"
